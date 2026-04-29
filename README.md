@@ -1,2 +1,2 @@
-Basic Website base
+# Basic Website base
 Shorten time on basic websites with copy-paste
