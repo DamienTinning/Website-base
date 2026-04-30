@@ -1,2 +1,2 @@
-# Basic Website base
-Shorten time on basic websites with copy-paste
+# Basic Websites
+Old HTML Website/s projects from learning to use HTML - More old projects will be restored and added in the near future
